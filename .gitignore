@@ -1,0 +1,5 @@
+index.faiss
+index.pkl
+chunks.json
+*.pdf
+.venv
