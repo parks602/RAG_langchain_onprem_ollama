@@ -1,5 +1,7 @@
 # On-Premise RAG 기반 사내규정 검색 시스템
 
+**[🇺🇸 English README](./README_EN.md)**
+
 **"GPU 인프라 없이도 실용적인 RAG 시스템 구축"**
 
 - 8GB VRAM 환경에서 작동하는 경량 RAG
